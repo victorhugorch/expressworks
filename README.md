@@ -37,6 +37,7 @@ You might want to download [the free Express.js cheatsheet](https://gumroad.com/
 * Traditional Chinese
 * Korean
 * Japanese
+* Brazilian Portuguese
 
 ## Contributors
 
@@ -61,6 +62,7 @@ You might want to download [the free Express.js cheatsheet](https://gumroad.com/
  2  Shim Won
  2  Thomas Burette
  2  intrueder
+ 2  Victor Hugo Rocha
  1  Alessandro Lensi
  1  Alfredo Miranda
  1  Ayman Mahfouz
